@@ -43,7 +43,7 @@ const Wrap = styled.div`
     img {
         width: 100%;
         object-fit: cover;
-
+        height: 100%;
     }
 
     &:hover {
